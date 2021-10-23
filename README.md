@@ -73,7 +73,7 @@
 
 </div>
 
-📦 定期发布原创Python文章，扫码可订阅我的**微信公众号**哟。
+📦 扫码可订阅我的**微信公众号**，可第一时间阅读我的原创Python文章：
 
 <div align="center">
   
@@ -85,5 +85,5 @@
 
 📡 你可以通过 Email 联系到我：dusaiphoto@foxmail.com
 
-💋💋💋 Enjoy! 💋💋💋
+💋💋💋 **Enjoy!** 💋💋💋
 
