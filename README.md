@@ -1,4 +1,7 @@
-<!--START_SECTION:waka--> 
+<!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 <h1 align="center">你好呀👏🏻</h1>
