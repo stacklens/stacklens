@@ -86,9 +86,3 @@
 📡 你可以通过 Email 联系到我：dusaiphoto@foxmail.com
 
 💋💋💋 **Enjoy!** 💋💋💋
-
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
