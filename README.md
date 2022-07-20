@@ -18,7 +18,7 @@
 <div align="center">
 
 ![Python](https://img.shields.io/badge/-Python-%233776ab?logo=python&style=for-the-badge&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-%23092E20?logo=django&style=for-the-badge&logoColor=white&color=006400)
+![Javascript](https://img.shields.io/badge/-Javascript-%23092E20?logo=javascript&style=for-the-badge&logoColor=white&color=006400)
 ![Swift](https://img.shields.io/badge/-Swift-%233776ab?logo=swift&style=for-the-badge&logoColor=white&color=D2691E)
 
 </div>
